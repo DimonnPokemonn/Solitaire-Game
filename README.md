@@ -14,6 +14,6 @@ Use mouse to click on the card
 
 ## Screenshots
 
-![Menu screen](https://github.com/DimonnPokemonn/Solitaire-Game/blob/main/screenshots/menu.png)
+![Menu screen](https://raw.githubusercontent.com/DimonnPokemonn/Solitaire-Game/main/screenshots/menu.png)
 
-![Play screen](https://github.com/DimonnPokemonn/Solitaire-Game/blob/main/screenshots/game.png)
+![Play screen](https://raw.githubusercontent.com/DimonnPokemonn/Solitaire-Game/main/screenshots/game.png)
