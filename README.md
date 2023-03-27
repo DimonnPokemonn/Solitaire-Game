@@ -9,8 +9,8 @@ The goal of the game is to get all the cards from the stock pile into the founda
 
 Use mouse to click on the card
 
-1. Drag and drop function: Click and Hold the mouse and drag to apropriate spot on the table.
-2. Double click on the card will make this card takes apropriate spot on the table.
+1. Drag and drop function: Click and Hold the mouse and drag to appropriate place on the table.
+2. Double click function: Click on the card so that it takes its appropriate place on the table..
 
 ## Screenshots
 
